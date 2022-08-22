@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -rdynamic CMakeFiles/Variadictest.dir/Variadic.cpp.o -o Variadictest 
