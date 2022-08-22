@@ -1,0 +1,10 @@
+^C:\USERS\FARHAN\DESKTOP\DETECT_OBJECTS\BUILD\CMAKEFILES\26B08FAC32A4016AA7082C96886ECA9B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Farhan/Desktop/detect_objects -BC:/Users/Farhan/Desktop/detect_objects/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Farhan/Desktop/detect_objects/build/camera_fusion.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

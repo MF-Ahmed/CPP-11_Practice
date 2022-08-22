@@ -1,0 +1,3 @@
+C:/Users/Farhan/Desktop/detect_objects/build/CMakeFiles/detect_objects.dir
+C:/Users/Farhan/Desktop/detect_objects/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Farhan/Desktop/detect_objects/build/CMakeFiles/ZERO_CHECK.dir
