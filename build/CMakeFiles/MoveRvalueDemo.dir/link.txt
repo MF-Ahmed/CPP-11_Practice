@@ -1,1 +1,1 @@
-/usr/bin/c++  -std=c++14 -rdynamic CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o -o MoveRvalueDemo 
+/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o  -o MoveRvalueDemo 

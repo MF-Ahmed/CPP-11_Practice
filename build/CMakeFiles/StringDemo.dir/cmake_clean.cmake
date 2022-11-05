@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/StringDemo.dir/RawStrings.cpp.o"
-  "CMakeFiles/StringDemo.dir/RawStrings.cpp.o.d"
-  "StringDemo"
   "StringDemo.pdb"
+  "StringDemo"
 )
 
 # Per-language clean rules from dependency scanning.

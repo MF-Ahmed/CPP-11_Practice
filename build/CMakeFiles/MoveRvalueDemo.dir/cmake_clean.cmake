@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o"
-  "CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o.d"
-  "MoveRvalueDemo"
   "MoveRvalueDemo.pdb"
+  "MoveRvalueDemo"
 )
 
 # Per-language clean rules from dependency scanning.

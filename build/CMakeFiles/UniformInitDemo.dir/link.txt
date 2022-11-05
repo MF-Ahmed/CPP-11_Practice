@@ -1,1 +1,1 @@
-/usr/bin/c++  -std=c++14 -rdynamic CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o -o UniformInitDemo 
+/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o  -o UniformInitDemo 

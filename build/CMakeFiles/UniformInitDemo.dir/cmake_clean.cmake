@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o"
-  "CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o.d"
-  "UniformInitDemo"
   "UniformInitDemo.pdb"
+  "UniformInitDemo"
 )
 
 # Per-language clean rules from dependency scanning.

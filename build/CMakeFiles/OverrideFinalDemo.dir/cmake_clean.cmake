@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/OverrideFinalDemo.dir/OverrideFinal.cpp.o"
-  "CMakeFiles/OverrideFinalDemo.dir/OverrideFinal.cpp.o.d"
-  "OverrideFinalDemo"
   "OverrideFinalDemo.pdb"
+  "OverrideFinalDemo"
 )
 
 # Per-language clean rules from dependency scanning.

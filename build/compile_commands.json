@@ -1,72 +1,72 @@
 [
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/main.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/main.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/main.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/OverrideFinalDemo.dir/OverrideFinal.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/OverrideFinal.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/OverrideFinal.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/AutoDecltype.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/AutoDecltype.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/NullPtr.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/NullPtr.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/main.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/main.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/main.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/RangeBasedFor.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/RangeBasedFor.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/Lambdas.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/Lambdas.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/StronglyTypedEnum.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/StronglyTypedEnum.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/StaticAssertTraits.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/StaticAssertTraits.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/Constexpr.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/Constexpr.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/SmartPointers.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/SmartPointers.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/Variadictest.dir/Variadic.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/Variadic.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/Variadic.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/UniformInit.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/UniformInit.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/Variadictest.dir/Variadic.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Variadic.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/Variadic.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/MoveRvalue.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/MoveRvalue.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/UniformInitDemo.dir/UniformInit.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/UniformInit.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/UniformInit.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/StringDemo.dir/RawStrings.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/RawStrings.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/RawStrings.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/MoveRvalueDemo.dir/MoveRvalue.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/MoveRvalue.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/MoveRvalue.cpp"
 },
 {
-  "directory": "/home/uzi/Data/ModernCppGit/ModernCpp/build",
-  "command": "/usr/bin/c++  -I/home/uzi/Data/ModernCppGit/ModernCpp/.  -std=c++14 -o CMakeFiles/OverrideFinalDemo.dir/OverrideFinal.cpp.o -c /home/uzi/Data/ModernCppGit/ModernCpp/OverrideFinal.cpp",
-  "file": "/home/uzi/Data/ModernCppGit/ModernCpp/OverrideFinal.cpp"
+  "directory": "/home/uzi/data/allgit/CPP-11_Practice/build",
+  "command": "/usr/bin/c++   -I/home/uzi/data/allgit/CPP-11_Practice/.   -std=c++14   -o CMakeFiles/StringDemo.dir/RawStrings.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp",
+  "file": "/home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp"
 }
 ]

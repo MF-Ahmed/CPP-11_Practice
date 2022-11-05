@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uzi/data/allgit/CPP-11_Practice/Headers.h
+cstdio
+-
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+functional
+-
+memory
+-
+type_traits
+-
+initializer_list
+-
+bits/stdc++.h
+-
+
+/home/uzi/data/allgit/CPP-11_Practice/MoveRvalue.cpp
+Headers.h
+/home/uzi/data/allgit/CPP-11_Practice/Headers.h
+

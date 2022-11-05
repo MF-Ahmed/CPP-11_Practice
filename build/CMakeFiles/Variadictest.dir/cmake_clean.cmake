@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Variadictest.dir/Variadic.cpp.o"
-  "CMakeFiles/Variadictest.dir/Variadic.cpp.o.d"
-  "Variadictest"
   "Variadictest.pdb"
+  "Variadictest"
 )
 
 # Per-language clean rules from dependency scanning.
