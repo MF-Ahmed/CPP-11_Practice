@@ -14,7 +14,8 @@ void Foo()
 
 // copy this from elsewhere (use search)
 template <typename T, typename U>
-auto add(T t, U u) -> decltype(t+u)
+// auto add(T t, U u) -> decltype(t+u) iff CPP 11
+auto add(T t, U u)
 {
 	static_assert(is_integral<T>::value, "First value must be integer");
 

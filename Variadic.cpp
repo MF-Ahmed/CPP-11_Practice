@@ -1,9 +1,10 @@
 #include "Headers.h"
 
 // add this later
-auto sum() { return 0; }
+auto sum() { return 0; } // Treminating condition 
 
-template <typename H, typename... T>
+template <typename H, typename... T> // we have any number of types for the second template 
+									 // Thats the Idea Of Variadic Templates
 auto sum(H h, T... t) // -> decltype(h + sum(t...))
 {
 	return h + sum(t...);
@@ -11,12 +12,12 @@ auto sum(H h, T... t) // -> decltype(h + sum(t...))
 
 auto sum_product(double a, double b)
 {
-	return make_pair(a+b, a*b);
+	return make_pair(a+b, a*b); // return multiple 
 }
 
 int main()
 {
-	cout << sum(1,2.5) << endl;
+	cout << sum(1,2.5,1,2.5) << endl;
 
 	cout << sum(string("hello,"),"variadics") << endl;
 
