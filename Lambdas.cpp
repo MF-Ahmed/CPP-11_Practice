@@ -9,7 +9,8 @@ void lambda_demo()
 	});
 
 	int zero = 0; // start w/o zero, Introduce Variable (select the zero!), also try =
-	auto is_positive = [=](int n) { return n > zero; };
+	auto is_positive = [=](int n) { return n > zero; };// [] is captalist  // here = means catch everthing, alternatively 
+	// we can put zero or &zero as refrerence
 
 	bool s = is_positive(-2);
 

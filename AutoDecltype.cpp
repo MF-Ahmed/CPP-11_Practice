@@ -20,15 +20,19 @@ void auto_demo() {
 	}
 }
 
-// add trailing type -> int later
-auto get_meaning_of_life(int bias) -> int
+// add trailing type -> int later only when in CPP 11
+// auto get_meaning_of_life(int bias) -> int
+// for CPP 14 we can just simply use
+auto get_meaning_of_life(int bias) 
 { return 42 + bias; }
 
 auto gmol_ptr = get_meaning_of_life;
 
 // cannot prefix dectype because t and u not in scope yet
 template <typename T, typename U>
-auto add(T t, U u) -> decltype(t+u)
+// again when using CPP 11 we would write 
+//auto add(T t, U u) -> decltype(t+u)
+auto add(T t, U u)
 {
 	return t+u;
 }
@@ -38,7 +42,7 @@ auto z = add(string("foo"), string("bar"));
 
 // now, decltype
 vector<double> values;
-typedef decltype(values.begin()) dvi;
+typedef decltype(values.begin()) dvi; // get an Iterator 
 
 typedef decltype(42) myint; // change to 42/2.1
 typedef decltype(q) qtype;
