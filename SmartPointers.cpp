@@ -4,7 +4,7 @@ class Address
 {
 public:
 	Address() {}
-	Address(const Address&) { cout << "Address copied!" << endl; }
+	Address(const Address&) { cout << "Address copied!" << endl; } // copy constructor
 	int house_number;
 	string street;
 	string city;
@@ -24,7 +24,7 @@ Address create_address(int house, string postcode)
 
 unique_ptr<Address> create_address_smart(int house, string postcode)
 {
-	auto a = make_unique<Address>();
+	auto a = make_unique<Address>();// smart pointer
 	return a;
 }
 
