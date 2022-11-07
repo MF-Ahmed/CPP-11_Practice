@@ -2,6 +2,10 @@
 
 ## Topics covered
 - Variadic Templtes
- 
+- Uniform Initialization
+- Smart Poointers
+- Enum Class
+- Satatc Assertion 
+
 
 
