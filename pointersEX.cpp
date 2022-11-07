@@ -5,8 +5,6 @@
 
 #define out(x) std::cout << x << std::endl;
 
-
-
 class enity
 {
     public:

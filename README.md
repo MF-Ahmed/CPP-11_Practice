@@ -6,6 +6,10 @@
 - Smart Poointers
 - Enum Class
 - Satatc Assertion 
-
+- RValues
+- Lambda funtions
+- Foreeach & Range based Forloop
+- Initlizer Lists
+- Autodecl type
 
 
