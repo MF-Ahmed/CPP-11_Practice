@@ -7,7 +7,7 @@ string getName()
 
 void printName(const string& name) // refers to a permanent object
 {
-	cout << "Ordinary reference: " << name << endl;
+	cout << "Ordinary reference of constatnt Type: " << name << endl;
 }
 
 void printName(string&& name) // refers to a temp object
