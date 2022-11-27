@@ -60,15 +60,15 @@ include CMakeFiles/StringDemo.dir/flags.make
 CMakeFiles/StringDemo.dir/RawStrings.cpp.o: CMakeFiles/StringDemo.dir/flags.make
 CMakeFiles/StringDemo.dir/RawStrings.cpp.o: ../RawStrings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/StringDemo.dir/RawStrings.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/StringDemo.dir/RawStrings.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/StringDemo.dir/RawStrings.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp
 
 CMakeFiles/StringDemo.dir/RawStrings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/StringDemo.dir/RawStrings.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp > CMakeFiles/StringDemo.dir/RawStrings.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp > CMakeFiles/StringDemo.dir/RawStrings.cpp.i
 
 CMakeFiles/StringDemo.dir/RawStrings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/StringDemo.dir/RawStrings.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp -o CMakeFiles/StringDemo.dir/RawStrings.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/RawStrings.cpp -o CMakeFiles/StringDemo.dir/RawStrings.cpp.s
 
 CMakeFiles/StringDemo.dir/RawStrings.cpp.o.requires:
 

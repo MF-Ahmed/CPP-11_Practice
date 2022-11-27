@@ -1,1 +1,1 @@
-/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/StringDemo.dir/RawStrings.cpp.o  -o StringDemo 
+/usr/bin/g++   -std=c++14  -rdynamic CMakeFiles/StringDemo.dir/RawStrings.cpp.o  -o StringDemo 
