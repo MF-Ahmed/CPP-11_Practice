@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../our_project/tools/tools.h
+
+/home/user/data/git/CPP-11_Practice/CMake_config/our_project/executables/print_hello.cpp
+our_project/tools/tools.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/print_hello.dir/print_hello.cpp.o  -o print_hello  ../our_project/tools/libtools.a 
