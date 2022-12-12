@@ -1,1 +1,1 @@
-/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o  -o SmartPointerTest 
+/usr/bin/g++   -std=c++14  -rdynamic CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o  -o SmartPointerTest 

@@ -6,7 +6,7 @@
 
 void printvalue(int value){
 
-    std::cout<<"value = "<<value<<std::endl;
+    std::cout<<"value =  "<<value<<std::endl;
 
 }
 

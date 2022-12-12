@@ -60,15 +60,15 @@ include CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/main.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ModernCpp.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/main.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/main.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/main.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/main.cpp
 
 CMakeFiles/ModernCpp.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/main.cpp > CMakeFiles/ModernCpp.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/main.cpp > CMakeFiles/ModernCpp.dir/main.cpp.i
 
 CMakeFiles/ModernCpp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/main.cpp -o CMakeFiles/ModernCpp.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/main.cpp -o CMakeFiles/ModernCpp.dir/main.cpp.s
 
 CMakeFiles/ModernCpp.dir/main.cpp.o.requires:
 
@@ -84,15 +84,15 @@ CMakeFiles/ModernCpp.dir/main.cpp.o.provides.build: CMakeFiles/ModernCpp.dir/mai
 CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o: ../AutoDecltype.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp
 
 CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp > CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp > CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.i
 
 CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/AutoDecltype.cpp -o CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.s
 
 CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o.requires:
 
@@ -108,15 +108,15 @@ CMakeFiles/ModernCpp.dir/AutoDecltype.cpp.o.provides.build: CMakeFiles/ModernCpp
 CMakeFiles/ModernCpp.dir/NullPtr.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/NullPtr.cpp.o: ../NullPtr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ModernCpp.dir/NullPtr.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp
 
 CMakeFiles/ModernCpp.dir/NullPtr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/NullPtr.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp > CMakeFiles/ModernCpp.dir/NullPtr.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp > CMakeFiles/ModernCpp.dir/NullPtr.cpp.i
 
 CMakeFiles/ModernCpp.dir/NullPtr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/NullPtr.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/NullPtr.cpp -o CMakeFiles/ModernCpp.dir/NullPtr.cpp.s
 
 CMakeFiles/ModernCpp.dir/NullPtr.cpp.o.requires:
 
@@ -132,15 +132,15 @@ CMakeFiles/ModernCpp.dir/NullPtr.cpp.o.provides.build: CMakeFiles/ModernCpp.dir/
 CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o: ../RangeBasedFor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp
 
 CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp > CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp > CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.i
 
 CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/RangeBasedFor.cpp -o CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.s
 
 CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o.requires:
 
@@ -156,15 +156,15 @@ CMakeFiles/ModernCpp.dir/RangeBasedFor.cpp.o.provides.build: CMakeFiles/ModernCp
 CMakeFiles/ModernCpp.dir/Lambdas.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/Lambdas.cpp.o: ../Lambdas.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ModernCpp.dir/Lambdas.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp
 
 CMakeFiles/ModernCpp.dir/Lambdas.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/Lambdas.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp > CMakeFiles/ModernCpp.dir/Lambdas.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp > CMakeFiles/ModernCpp.dir/Lambdas.cpp.i
 
 CMakeFiles/ModernCpp.dir/Lambdas.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/Lambdas.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/Lambdas.cpp -o CMakeFiles/ModernCpp.dir/Lambdas.cpp.s
 
 CMakeFiles/ModernCpp.dir/Lambdas.cpp.o.requires:
 
@@ -180,15 +180,15 @@ CMakeFiles/ModernCpp.dir/Lambdas.cpp.o.provides.build: CMakeFiles/ModernCpp.dir/
 CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o: ../StronglyTypedEnum.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp
 
 CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp > CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp > CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.i
 
 CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/StronglyTypedEnum.cpp -o CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.s
 
 CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o.requires:
 
@@ -204,15 +204,15 @@ CMakeFiles/ModernCpp.dir/StronglyTypedEnum.cpp.o.provides.build: CMakeFiles/Mode
 CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o: ../StaticAssertTraits.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp
 
 CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp > CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp > CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.i
 
 CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/StaticAssertTraits.cpp -o CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.s
 
 CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o.requires:
 
@@ -228,15 +228,15 @@ CMakeFiles/ModernCpp.dir/StaticAssertTraits.cpp.o.provides.build: CMakeFiles/Mod
 CMakeFiles/ModernCpp.dir/Constexpr.cpp.o: CMakeFiles/ModernCpp.dir/flags.make
 CMakeFiles/ModernCpp.dir/Constexpr.cpp.o: ../Constexpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ModernCpp.dir/Constexpr.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp
 
 CMakeFiles/ModernCpp.dir/Constexpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ModernCpp.dir/Constexpr.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp > CMakeFiles/ModernCpp.dir/Constexpr.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp > CMakeFiles/ModernCpp.dir/Constexpr.cpp.i
 
 CMakeFiles/ModernCpp.dir/Constexpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ModernCpp.dir/Constexpr.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/Constexpr.cpp -o CMakeFiles/ModernCpp.dir/Constexpr.cpp.s
 
 CMakeFiles/ModernCpp.dir/Constexpr.cpp.o.requires:
 

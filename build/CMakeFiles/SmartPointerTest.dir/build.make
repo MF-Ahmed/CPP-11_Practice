@@ -60,15 +60,15 @@ include CMakeFiles/SmartPointerTest.dir/flags.make
 CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o: CMakeFiles/SmartPointerTest.dir/flags.make
 CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o: ../SmartPointers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uzi/data/allgit/CPP-11_Practice/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o -c /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp
 
 CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp > CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp > CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.i
 
 CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uzi/data/allgit/CPP-11_Practice/SmartPointers.cpp -o CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.s
 
 CMakeFiles/SmartPointerTest.dir/SmartPointers.cpp.o.requires:
 
